@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Dynamic Cloud Config - FRONTEND
+
+## This project was built with...
+
+1. NPM : 10.5.0
+2. Node : v21.7.1
+3. React : 18.2.0
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To build and run
+
+1. first, install all the node modules via either npm or yarn
+  npm : npm install
+  yarn : yarn install
+2. once it's done, run below command.
+  npm run start
+   
 
 ## Available Scripts
 
