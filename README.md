@@ -8,6 +8,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup .env file
+
+create .env file in the root directory. You can utilise the .env.template added within the same directory to identify required variables within .env file.
+
 ## To build and run
 
 1. first, install all the node modules via either npm or yarn
